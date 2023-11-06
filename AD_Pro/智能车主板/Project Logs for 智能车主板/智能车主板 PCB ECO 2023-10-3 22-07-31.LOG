@@ -1,0 +1,85 @@
+Added Component: Designator=C3(C型钽电容_6032_28)
+Added Component: Designator=C6(D型钽电容_7343_31)
+Added Component: Designator=C7(D型钽电容_7343_31)
+Added Component: Designator=C8(C型钽电容_6032_28)
+Added Component: Designator=C11(D型钽电容_7343_31)
+Added Component: Designator=C12(D型钽电容_7343_31)
+Added Component: Designator=C13(D型钽电容_7343_31)
+Added Component: Designator=C16(D型钽电容_7343_31)
+Added Component: Designator=H1(铜柱孔3)
+Added Component: Designator=H2(铜柱孔3)
+Added Component: Designator=H3(铜柱孔3)
+Added Component: Designator=H4(铜柱孔3)
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC-5 Pin=C6-2
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=GGND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GGND Pin=C8-2
+Added Pin To Net: NetName=V6 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=V5 Pin=C13-1
+Added Pin To Net: NetName=GGND Pin=C13-2
+Added Pin To Net: NetName=VCC5 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H1-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H2-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H3-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Pin To Net: NetName=GND Pin=H4-11
+Added Member To Class: ClassName=智能车主板 Member=Component C3 47uF
+Added Member To Class: ClassName=智能车主板 Member=Component C6 100uF
+Added Member To Class: ClassName=智能车主板 Member=Component C7 47uF
+Added Member To Class: ClassName=智能车主板 Member=Component C8 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C11 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C12 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C13 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component C16 22uF
+Added Member To Class: ClassName=智能车主板 Member=Component H1 固定孔
+Added Member To Class: ClassName=智能车主板 Member=Component H2 固定孔
+Added Member To Class: ClassName=智能车主板 Member=Component H3 固定孔
+Added Member To Class: ClassName=智能车主板 Member=Component H4 固定孔
+Added Room: Name=智能车主板
